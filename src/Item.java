@@ -1,6 +1,10 @@
 import java.util.Map;
 
 class Item {
+    /**
+     * Class for items that can be provided by coffee machine
+     * Think of it like items on a menu (eg: espresso, latte)
+     */
 
     String name;
     int cost;
