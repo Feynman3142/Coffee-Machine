@@ -30,8 +30,7 @@ Following operations allowed on/by the coffee machine:
 * Take the money stored in the machine
 * Display the available ingredients and their amounts
 
----
-![Demo](https://drive.google.com/uc?export=view&id=11SdU6EQDoKpq73Im05HCGEaeczWjLiv_)
+![Demo](media/demo.gif)
 
 ### Dependencies
 
